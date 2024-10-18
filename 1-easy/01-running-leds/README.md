@@ -1,6 +1,7 @@
 # Running LEDs
-
-![Circuit Diagram](./assets/problem.png)
+<p align="center">
+  <img src="./assets/problem.png" width="48%">
+</p>
 
 ## Requirements
 
