@@ -18,10 +18,10 @@ The problems are classified into three categories: Easy, Intermediate, and Hard.
 
 ### 👶🏻 Easy
 
-- Running LEDs
-- Logic Gate
-- 4 bits counter
-- 8 bits counting machine
+- [Running LEDs](./1-easy/01-running-leds/)
+- [Logic Gate](./1-easy/02-logic-gate/)
+- [4 bits counter](./1-easy/03-4-bits-counter/)
+- [8 bits counting machine](./1-easy/04-8-bits-counting-machine/)
 
 ### 👨🏻‍🦲 Intermediate
 
