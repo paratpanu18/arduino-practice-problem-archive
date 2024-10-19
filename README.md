@@ -28,7 +28,7 @@ The problems are classified into three categories: Easy, Intermediate, and Hard.
 - Multiplying Machine (2023's Exam)
 - Circular Rotate (2022's Exam)
 - Running LEDs v2 - Speed control
-- 4 bits ALU
 
 ### 👴🏻 Hard
 
+- Digital Dice
