@@ -16,4 +16,4 @@
 - บิต `1` แทน LED ติด
 - **ให้ Clock Speed ในการนับเท่ากับ 1 Hz**
 
->> ถ้าทำข้อนี้เสร็จแล้ว ลองไปทำ [8 Bits Counting Machine](../04-8-bits-counting-machine/) ต่อเลย !
+> ถ้าทำข้อนี้เสร็จแล้ว ลองไปทำ [8 Bits Counting Machine](../04-8-bits-counting-machine/) ต่อเลย !
