@@ -25,8 +25,8 @@ The problems are classified into three categories: Easy, Intermediate, and Hard.
 
 ### 👨🏻‍🦲 Intermediate
 
-- Multiplying Machine (2023's Exam)
-- Circular Rotate (2022's Exam)
+- [Multiplying Machine (2023's Exam)](./2-intermediate/01-multiplying-machine/)
+- [Circular Rotate (2022's Exam)](./2-intermediate/02-circular-rotate/)
 - Running LEDs v2 - Speed control
 
 ### 👴🏻 Hard
