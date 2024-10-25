@@ -31,4 +31,4 @@ The problems are classified into three categories: Easy, Intermediate, and Hard.
 
 ### 👴🏻 Hard
 
-- Digital Dice
+- [Digital Dice](./3-hard/01-digital-dice/)
